@@ -13,8 +13,8 @@ Bootcamp de React 3ADSB
 - 🚪: Localhost:3000
 - Versão Node (16.14.2)
 
-## Developer:
+## Developer
 - <a href="https://github.com/flamauricio"> @flamauricio <a/>
   
-  ## License
-  - <a href="github.com/flamauricio/BootcampReact/blob/main/LICENSE"> MIT LICENSE <a/>
+## License
+- <a href="github.com/flamauricio/BootcampReact/blob/main/LICENSE"> MIT LICENSE <a/>
