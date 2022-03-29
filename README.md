@@ -12,3 +12,6 @@ Bootcamp de React 3ADSB
 ```
 - 🚪: Localhost:3000
 - Versão Node (16.14.2)
+
+## Developer:
+- <a href="https://github.com/flamauricio"> @flamauricio <a/>
