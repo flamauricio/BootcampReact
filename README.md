@@ -15,3 +15,6 @@ Bootcamp de React 3ADSB
 
 ## Developer:
 - <a href="https://github.com/flamauricio"> @flamauricio <a/>
+  
+  ## License
+  - <a href="github.com/flamauricio/BootcampReact/blob/main/LICENSE"> MIT LICENSE <a/>
