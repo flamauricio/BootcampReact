@@ -1,11 +1,11 @@
 # Bootcamp de React
 Bootcamp de React 3ADSB
 
-#Versões 🚀
+## Versões 🚀
 - Sem node react-v0.1
 - Com node react-v0.2
 
-#Comandos 💻
+## Comandos 💻
 - Caso com node:
 ```bash 
   $ npm install
