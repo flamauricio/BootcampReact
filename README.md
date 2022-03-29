@@ -2,12 +2,13 @@
 Bootcamp de React 3ADSB
 
 #Versões 🚀
--Sem node react-v0.1
--Com node react-v0.2
+- Sem node react-v0.1
+- Com node react-v0.2
 
 #Comandos 💻
-```bash
-  // Caso node 
+- Caso com node:
+```bash 
   $ npm install
-  // Porta: Localhost:3000
 ```
+- 🚪: Localhost:3000
+- Versão Node (16.14.2)
