@@ -6,8 +6,8 @@ Bootcamp de React 3ADSB
 -Com node react-v0.2
 
 #Comandos 💻
-``bash
+```bash
   // Caso node 
   $ npm install
   // Porta: Localhost:3000
-´´
+```
